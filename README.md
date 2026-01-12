@@ -1,2 +1,2 @@
-# aguacate
-para saber de los aguacates
+# advocats
+para saber dels advocats
